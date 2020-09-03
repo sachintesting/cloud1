@@ -1,6 +1,6 @@
 # Sachin Terraform Repo = cloud1
 
-Sentinel Policies workflow:
+Sentinel Policies workflow:Sentinel is all about rules! Rules can either be true or false 
 
 1. Create a sentinel file like block-cidr.sentinel
 2. Define rule to block cidr 10.2.2.1/24
